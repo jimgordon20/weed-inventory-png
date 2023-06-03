@@ -4,6 +4,12 @@ If you have a script handling weed effects and rolling joints, making brownies/g
 
 jim-g
 
+Some weed images I've made for dirks weed script but you can use them anywhere. I will be adding more to this, even making new plant props—all for free.
+
+If you would like the script that works with all the names, [WEED-GROWING] go check out Dirk's Discord Where can you purchase the script. :https://discord.gg/dirkscripts
+
+info: weed leaf / weed seed / weed trimmed_bud / weed untrimmed_bud / weed bags / weed gummy / weed joints / weed brownies /
+
 
 iteams :::
 
