@@ -12,6 +12,8 @@ weed bags /
 weed gummy /
 weed joints /
 weed brownies /
+weed Dab /
+weed Dab packed /
 
 
 ![Weed Images 02_06_2023 22_57_52 (2)](https://github.com/jimgordon20/weed-inventory-png/assets/110393030/9e64e10e-a478-4405-9ce9-fcab5735dac3)
@@ -19,3 +21,6 @@ weed brownies /
 ![joints 02_06_2023 22_59_42 (2)](https://github.com/jimgordon20/weed-inventory-png/assets/110393030/69dd9d58-8301-4aa6-86e3-305e8b8c40bb)
 ![bags 02_06_2023 23_20_02 (2)](https://github.com/jimgordon20/weed-inventory-png/assets/110393030/60ad73b0-3c04-4cef-a454-0fc1c6989e49)
 ![weed_brownies 03_06_2023 13_05_30 (2)](https://github.com/jimgordon20/weed-inventory-png/assets/110393030/420251b2-adeb-46b5-8e8d-14f890971273)
+![weed-dab 10_06_2023 23_24_38 (2)](https://github.com/jimgordon20/weed-inventory-png/assets/110393030/9ae11944-39da-4652-acda-09720240bc10)
+
+
