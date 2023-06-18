@@ -8,7 +8,7 @@ Some weed images I've made for dirks weed script but you can use them anywhere. 
 
 If you would like the script that works with all the names, [WEED-GROWING] go check out Dirk's Discord Where can you purchase the script. :https://discord.gg/dirkscripts
 
-info: weed leaf / weed seed / weed trimmed_bud / weed untrimmed_bud / weed bags / weed gummy / weed joints / weed brownies / weed_dab / weed_Hash
+info: weed leaf / weed seed / weed trimmed_bud / weed untrimmed_bud / weed bags / weed gummy / weed joints / weed brownies / weed_dab / weed_hash
 
 
 iteams -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -102,54 +102,54 @@ iteams -------------------------------------------------------------------------
     ['brownie_skunk1'] 			     = {['name'] = 'brownie_skunk1', 			   ['label'] = 'brownie skunk1', 			     ['weight'] = 380, 		    ['type'] = 'item', 		['image'] = 'brownie_skunk1.png', 		               ['unique'] = false,         ['useable'] = true, 	   ['shouldClose'] = true,       ['combinable'] = nil,   ['description'] = 'skunk1 brownie'},
 
     --- new 10/06/2023
-    -- Dab unpacked --===========================================================================================================================================================================================================================================================
-    ['acapulcogold_Dab']             = {['name'] = 'acapulcogold_Dab',             ['label'] = 'acapulcogold_Dab',               ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'acapulcogold_Dab.png',                 ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['colombiangold_Dab']            = {['name'] = 'colombiangold_Dab',            ['label'] = 'colombiangold_Dab',              ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'colombiangold_Dab.png',                ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['dosidos_Dab']                  = {['name'] = 'dosidos_Dab',                  ['label'] = 'dosidos_Dab',                    ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'dosidos_Dab.png',                      ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['gelato41_Dab']                 = {['name'] = 'gelato41_Dab',                 ['label'] = 'gelato41_Dab',                   ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'gelato41_Dab.png',                     ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['lemonskunk_Dab']               = {['name'] = 'lemonskunk_Dab',               ['label'] = 'lemonskunk_Dab',                 ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'lemonskunk_Dab.png',                   ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['northernlights_Dab']           = {['name'] = 'northernlights_Dab',           ['label'] = 'northernlights_Dab',             ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'northernlights_Dab.png',               ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['ogkush_Dab']                   = {['name'] = 'ogkush_Dab',                   ['label'] = 'ogkush_Dab',                     ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'ogkush_Dab.png',                       ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['pureafghani_Dab']              = {['name'] = 'pureafghani_Dab',              ['label'] = 'pureafghani_Dab',                ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'pureafghani_Dab.png',                  ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['rainbowbelts_Dab']             = {['name'] = 'rainbowbelts_Dab',             ['label'] = 'rainbowbelts_Dab',               ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'rainbowbelts_Dab.png',                 ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['skunk1_Dab']                   = {['name'] = 'skunk1_Dab',                   ['label'] = 'skunk1_Dab',                     ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'skunk1_Dab.png',                       ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    -- dab unpacked --===========================================================================================================================================================================================================================================================
+    ['acapulcogold_dab']             = {['name'] = 'acapulcogold_dab',             ['label'] = 'acapulcogold_dab',               ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'acapulcogold_dab.png',                 ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['colombiangold_dab']            = {['name'] = 'colombiangold_dab',            ['label'] = 'colombiangold_dab',              ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'colombiangold_dab.png',                ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['dosidos_dab']                  = {['name'] = 'dosidos_dab',                  ['label'] = 'dosidos_dab',                    ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'dosidos_dab.png',                      ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['gelato41_dab']                 = {['name'] = 'gelato41_dab',                 ['label'] = 'gelato41_dab',                   ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'gelato41_dab.png',                     ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['lemonskunk_dab']               = {['name'] = 'lemonskunk_dab',               ['label'] = 'lemonskunk_dab',                 ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'lemonskunk_dab.png',                   ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['northernlights_dab']           = {['name'] = 'northernlights_dab',           ['label'] = 'northernlights_dab',             ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'northernlights_dab.png',               ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['ogkush_dab']                   = {['name'] = 'ogkush_dab',                   ['label'] = 'ogkush_dab',                     ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'ogkush_dab.png',                       ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['pureafghani_dab']              = {['name'] = 'pureafghani_dab',              ['label'] = 'pureafghani_dab',                ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'pureafghani_dab.png',                  ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['rainbowbelts_dab']             = {['name'] = 'rainbowbelts_dab',             ['label'] = 'rainbowbelts_dab',               ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'rainbowbelts_dab.png',                 ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['skunk1_dab']                   = {['name'] = 'skunk1_dab',                   ['label'] = 'skunk1_dab',                     ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'skunk1_dab.png',                       ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
 
-    -- Dab packed --===========================================================================================================================================================================================================================================================
-    ['acapulcogold_Dab_wrapped']     = {['name'] = 'acapulcogold_Dab_wrapped',     ['label'] = 'acapulcogold_Dab_wrapped',       ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'acapulcogold_Dab_wrapped.png',         ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['colombiangold_Dab_wrapped']    = {['name'] = 'colombiangold_Dab_wrapped',    ['label'] = 'colombiangold_Dab_wrapped',      ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'colombiangold_Dab_wrapped.png',        ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['dosidos_Dab_wrapped']          = {['name'] = 'dosidos_Dab_wrapped',          ['label'] = 'dosidos_Dab_wrapped',            ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'dosidos_Dab_wrapped.png',              ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['gelato41_Dab_wrapped']         = {['name'] = 'gelato41_Dab_wrapped',         ['label'] = 'gelato41_Dab_wrapped',           ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'gelato41_Dab_wrapped.png',             ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['lemonskunk_Dab_wrapped']       = {['name'] = 'lemonskunk_Dab_wrapped',       ['label'] = 'lemonskunk_Dab_wrapped',         ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'lemonskunk_Dab_wrapped.png',           ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['northernlights_Dab_wrapped']   = {['name'] = 'northernlights_Dab_wrapped',   ['label'] = 'northernlights_Dab_wrapped',     ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'northernlights_Dab_wrapped.png',       ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['ogkush_Dab_wrapped']           = {['name'] = 'ogkush_Dab_wrapped',           ['label'] = 'ogkush_Dab_wrapped',             ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'ogkush_Dab_wrapped.png',               ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['pureafghani_Dab_wrapped']      = {['name'] = 'pureafghani_Dab_wrapped',      ['label'] = 'pureafghani_Dab_wrapped',        ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'pureafghani_Dab_wrapped.png',          ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['rainbowbelts_Dab_wrapped']     = {['name'] = 'rainbowbelts_Dab_wrapped',     ['label'] = 'rainbowbelts_Dab_wrapped',       ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'rainbowbelts_Dab_wrapped.png',         ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['skunk1_Dab_wrapped']           = {['name'] = 'skunk1_Dab_wrapped',           ['label'] = 'skunk1_Dab_wrapped',             ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'skunk1_Dab_wrapped.png',               ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    -- dab packed --===========================================================================================================================================================================================================================================================
+    ['acapulcogold_dab_wrapped']     = {['name'] = 'acapulcogold_dab_wrapped',     ['label'] = 'acapulcogold_dab_wrapped',       ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'acapulcogold_dab_wrapped.png',         ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['colombiangold_dab_wrapped']    = {['name'] = 'colombiangold_dab_wrapped',    ['label'] = 'colombiangold_dab_wrapped',      ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'colombiangold_dab_wrapped.png',        ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['dosidos_dab_wrapped']          = {['name'] = 'dosidos_dab_wrapped',          ['label'] = 'dosidos_dab_wrapped',            ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'dosidos_dab_wrapped.png',              ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['gelato41_dab_wrapped']         = {['name'] = 'gelato41_dab_wrapped',         ['label'] = 'gelato41_dab_wrapped',           ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'gelato41_dab_wrapped.png',             ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['lemonskunk_dab_wrapped']       = {['name'] = 'lemonskunk_dab_wrapped',       ['label'] = 'lemonskunk_dab_wrapped',         ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'lemonskunk_dab_wrapped.png',           ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['northernlights_dab_wrapped']   = {['name'] = 'northernlights_dab_wrapped',   ['label'] = 'northernlights_dab_wrapped',     ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'northernlights_dab_wrapped.png',       ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['ogkush_dab_wrapped']           = {['name'] = 'ogkush_dab_wrapped',           ['label'] = 'ogkush_dab_wrapped',             ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'ogkush_dab_wrapped.png',               ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['pureafghani_dab_wrapped']      = {['name'] = 'pureafghani_dab_wrapped',      ['label'] = 'pureafghani_dab_wrapped',        ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'pureafghani_dab_wrapped.png',          ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['rainbowbelts_dab_wrapped']     = {['name'] = 'rainbowbelts_dab_wrapped',     ['label'] = 'rainbowbelts_dab_wrapped',       ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'rainbowbelts_dab_wrapped.png',         ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['skunk1_dab_wrapped']           = {['name'] = 'skunk1_dab_wrapped',           ['label'] = 'skunk1_dab_wrapped',             ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'skunk1_dab_wrapped.png',               ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
 
     
-    -- Hash --===========================================================================================================================================================================================================================================================
-    ['acapulcogold_Hash']            = {['name'] = 'acapulcogold_Hash',            ['label'] = 'acapulcogold_Hash',              ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'acapulcogold_Hash.png',                ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['colombiangold_Hash']           = {['name'] = 'colombiangold_Hash',           ['label'] = 'colombiangold_Hash',             ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'colombiangold_Hash.png',               ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['dosidos_Hash']                 = {['name'] = 'dosidos_Hash',                 ['label'] = 'dosidos_Hash',                   ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'dosidos_Hash.png',                     ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['gelato41_Hash']                = {['name'] = 'gelato41_Hash',                ['label'] = 'gelato41_Hash',                  ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'gelato41_Hash.png',                    ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['lemonskunk_Hash']              = {['name'] = 'lemonskunk_Hash',              ['label'] = 'lemonskunk_Hash',                ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'lemonskunk_Hash.png',                  ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['northernlights_Hash']          = {['name'] = 'northernlights_Hash',          ['label'] = 'northernlights_Hash',            ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'northernlights_Hash.png',              ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['ogkush_Hash']                  = {['name'] = 'ogkush_Hash',                  ['label'] = 'ogkush_Hash',                    ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'ogkush_Hash.png',                      ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['pureafghani_Hash']             = {['name'] = 'pureafghani_Hash',             ['label'] = 'pureafghani_Hash',               ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'pureafghani_Hash.png',                 ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['rainbowbelts_Hash']            = {['name'] = 'rainbowbelts_Hash',            ['label'] = 'rainbowbelts_Hash',              ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'rainbowbelts_Hash.png',                ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['skunk1_Hash']                  = {['name'] = 'skunk1_Hash',                  ['label'] = 'skunk1_Hash',                    ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'skunk1_Hash.png',                      ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    -- hash --===========================================================================================================================================================================================================================================================
+    ['acapulcogold_hash']            = {['name'] = 'acapulcogold_hash',            ['label'] = 'acapulcogold_hash',              ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'acapulcogold_hash.png',                ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['colombiangold_hash']           = {['name'] = 'colombiangold_hash',           ['label'] = 'colombiangold_hash',             ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'colombiangold_hash.png',               ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['dosidos_hash']                 = {['name'] = 'dosidos_hash',                 ['label'] = 'dosidos_hash',                   ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'dosidos_hash.png',                     ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['gelato41_hash']                = {['name'] = 'gelato41_hash',                ['label'] = 'gelato41_hash',                  ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'gelato41_hash.png',                    ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['lemonskunk_hash']              = {['name'] = 'lemonskunk_hash',              ['label'] = 'lemonskunk_hash',                ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'lemonskunk_hash.png',                  ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['northernlights_hash']          = {['name'] = 'northernlights_hash',          ['label'] = 'northernlights_hash',            ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'northernlights_hash.png',              ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['ogkush_hash']                  = {['name'] = 'ogkush_hash',                  ['label'] = 'ogkush_hash',                    ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'ogkush_hash.png',                      ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['pureafghani_hash']             = {['name'] = 'pureafghani_hash',             ['label'] = 'pureafghani_hash',               ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'pureafghani_hash.png',                 ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['rainbowbelts_hash']            = {['name'] = 'rainbowbelts_hash',            ['label'] = 'rainbowbelts_hash',              ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'rainbowbelts_hash.png',                ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['skunk1_hash']                  = {['name'] = 'skunk1_hash',                  ['label'] = 'skunk1_hash',                    ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'skunk1_hash.png',                      ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
     
-    --- Hash_baggy --===========================================================================================================================================================================================================================================================
-    ['acapulcogold_Hash_baggy']      = {['name'] = 'acapulcogold_Hash_baggy',      ['label'] = 'acapulcogold_Hash_baggy',        ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'acapulcogold_Hash_baggy.png',         ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['colombiangold_Hash_baggy']     = {['name'] = 'colombiangold_Hash_baggy',     ['label'] = 'colombiangold_Hash_baggy',       ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'colombiangold_Hash_baggy.png',        ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['dosidos_Hash_baggy']           = {['name'] = 'dosidos_Hash_baggy',           ['label'] = 'dosidos_Hash_baggy',             ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'dosidos_Hash_baggy.png',              ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['gelato41_Hash_baggy']          = {['name'] = 'gelato41_Hash_baggy',          ['label'] = 'gelato41_Hash_baggy',            ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'gelato41_Hash_baggy.png',             ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['lemonskunk_Hash_baggy']        = {['name'] = 'lemonskunk_Hash_baggy',        ['label'] = 'lemonskunk_Hash_baggy',          ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'lemonskunk_Hash_baggy.png',           ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['northernlights_Hash_baggy']    = {['name'] = 'northernlights_Hash_baggy',    ['label'] = 'northernlights_Hash_baggy',      ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'northernlights_Hash_baggy.png',       ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['ogkush_Hash_baggy']            = {['name'] = 'ogkush_Hash_baggy',            ['label'] = 'ogkush_Hash_baggy',              ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'ogkush_Hash_baggy.png',               ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['pureafghani_Hash_baggy']       = {['name'] = 'pureafghani_Hash_baggy',       ['label'] = 'pureafghani_Hash_baggy',         ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'pureafghani_Hash_baggy.png',          ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['rainbowbelts_Hash_baggy']      = {['name'] = 'rainbowbelts_Hash_baggy',      ['label'] = 'rainbowbelts_Hash_baggy',        ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'rainbowbelts_Hash_baggy.png',         ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
-    ['skunk1_Hash_baggy']            = {['name'] = 'skunk1_Hash_baggy',            ['label'] = 'skunk1_Hash_baggy',              ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'skunk1_Hash_baggy.png',               ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    --- hash_baggy --===========================================================================================================================================================================================================================================================
+    ['acapulcogold_hash_baggy']      = {['name'] = 'acapulcogold_hash_baggy',      ['label'] = 'acapulcogold_hash_baggy',        ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'acapulcogold_hash_baggy.png',         ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['colombiangold_hash_baggy']     = {['name'] = 'colombiangold_hash_baggy',     ['label'] = 'colombiangold_hash_baggy',       ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'colombiangold_hash_baggy.png',        ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['dosidos_hash_baggy']           = {['name'] = 'dosidos_hash_baggy',           ['label'] = 'dosidos_hash_baggy',             ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'dosidos_hash_baggy.png',              ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['gelato41_hash_baggy']          = {['name'] = 'gelato41_hash_baggy',          ['label'] = 'gelato41_hash_baggy',            ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'gelato41_hash_baggy.png',             ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['lemonskunk_hash_baggy']        = {['name'] = 'lemonskunk_hash_baggy',        ['label'] = 'lemonskunk_hash_baggy',          ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'lemonskunk_hash_baggy.png',           ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['northernlights_hash_baggy']    = {['name'] = 'northernlights_hash_baggy',    ['label'] = 'northernlights_hash_baggy',      ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'northernlights_hash_baggy.png',       ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['ogkush_hash_baggy']            = {['name'] = 'ogkush_hash_baggy',            ['label'] = 'ogkush_hash_baggy',              ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'ogkush_hash_baggy.png',               ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['pureafghani_hash_baggy']       = {['name'] = 'pureafghani_hash_baggy',       ['label'] = 'pureafghani_hash_baggy',         ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'pureafghani_hash_baggy.png',          ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['rainbowbelts_hash_baggy']      = {['name'] = 'rainbowbelts_hash_baggy',      ['label'] = 'rainbowbelts_hash_baggy',        ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'rainbowbelts_hash_baggy.png',         ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
+    ['skunk1_hash_baggy']            = {['name'] = 'skunk1_hash_baggy',            ['label'] = 'skunk1_hash_baggy',              ['weight'] = 001,          ['type'] = 'item',         ['image'] = 'skunk1_hash_baggy.png',               ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,      ['combinable'] = nil,   ['description'] = ''},
 --===========================================================================================================================================================================================================================================================
 -- names
 
@@ -241,50 +241,50 @@ brownie_pureafghani
 brownie_rainbowbelts
 brownie_skunk1
 
-------- Dab unpack - new 10/06/2023
-acapulcogold_Dab
-colombiangold_Dab
-dosidos_Dab
-gelato41_Dab
-lemonskunk_Dab
-northernlights_Dab
-ogkush_Dab
-pureafghani_Dab
-rainbowbelts_Dab
-skunk1_Dab
+------- dab unpack - new 10/06/2023
+acapulcogold_dab
+colombiangold_dab
+dosidos_dab
+gelato41_dab
+lemonskunk_dab
+northernlights_dab
+ogkush_dab
+pureafghani_dab
+rainbowbelts_dab
+skunk1_dab
 
-------- Dab wrapped - new 10/06/2023
-acapulcogold_Dab_wrapped
-colombiangold_Dab_wrapped
-dosidos_Dab_wrapped
-gelato41_Dab_wrapped
-lemonskunk_Dab_wrapped
-northernlights_Dab_wrapped
-ogkush_Dab_wrapped
-pureafghani_Dab_wrapped
-rainbowbelts_Dab_wrapped
-skunk1_Dab_wrapped
+------- dab wrapped - new 10/06/2023
+acapulcogold_dab_wrapped
+colombiangold_dab_wrapped
+dosidos_dab_wrapped
+gelato41_dab_wrapped
+lemonskunk_dab_wrapped
+northernlights_dab_wrapped
+ogkush_dab_wrapped
+pureafghani_dab_wrapped
+rainbowbelts_dab_wrapped
+skunk1_dab_wrapped
 
--- Hash - new 10/06/2023
-acapulcogold_Hash
-colombiangold_Hash
-dosidos_Hash
-gelato41_Hash
-lemonskunk_Hash
-northernlights_Hash
-ogkush_Hash
-pureafghani_Hash
-rainbowbelts_Hash
-skunk1_Hash
---- Hash_baggy - new 10/06/2023
-acapulcogold_Hash_baggy
-colombiangold_Hash_baggy
-dosidos_Hash_baggy
-gelato41_Hash_baggy
-lemonskunk_Hash_baggy
-northernlights_Hash_baggy
-ogkush_Hash_baggy
-pureafghani_Hash_baggy
-rainbowbelts_Hash_baggy
-skunk1_Hash_baggy
+-- hash - new 10/06/2023
+acapulcogold_hash
+colombiangold_hash
+dosidos_hash
+gelato41_hash
+lemonskunk_hash
+northernlights_hash
+ogkush_hash
+pureafghani_hash
+rainbowbelts_hash
+skunk1_hash
+--- hash_baggy - new 10/06/2023
+acapulcogold_hash_baggy
+colombiangold_hash_baggy
+dosidos_hash_baggy
+gelato41_hash_baggy
+lemonskunk_hash_baggy
+northernlights_hash_baggy
+ogkush_hash_baggy
+pureafghani_hash_baggy
+rainbowbelts_hash_baggy
+skunk1_hash_baggy
 -------
