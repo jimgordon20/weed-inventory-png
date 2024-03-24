@@ -13,6 +13,9 @@
 -- *      |__/                                                                         *
 -- *************************************************************************************
 
+-- [ Jim G discord ]
+-- https://discord.gg/6QUTHVA3VP
+
 Do not ask Dirk for help with my files. Just drop them into inventory and paste over Dirk's original PNG.
 
 If you have a script handling weed effects and rolling joints, making brownies/gummies, you will need to make a copy of the name in your scripts.
