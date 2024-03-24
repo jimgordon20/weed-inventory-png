@@ -1,4 +1,8 @@
 # weed-inventory-png
+
+[ Jim G discord ]
+https://discord.gg/6QUTHVA3VP
+
 Some weed images I've made for dirks weed script but you can use them anywhere. I will be adding more to this, even making new plant props—all for free.
 
 If you would like the script that works with all the names, [WEED-GROWING]  go check out Dirk's Discord Where can you purchase the script. :https://discord.gg/dirkscripts
