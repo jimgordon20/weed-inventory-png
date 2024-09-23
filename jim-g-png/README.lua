@@ -16,15 +16,11 @@
 -- [ Jim G discord ]
 -- https://discord.gg/6QUTHVA3VP
 
-Do not ask Dirk for help with my files. Just drop them into inventory and paste over Dirk's original PNG.
-
 If you have a script handling weed effects and rolling joints, making brownies/gummies, you will need to make a copy of the name in your scripts.
 
 jim-g
 
-Some weed images I've made for dirks weed script but you can use them anywhere. I will be adding more to this, even making new plant props—all for free.
-
-If you would like the script that works with all the names, [WEED-GROWING] go check out Dirk's Discord Where can you purchase the script. :https://discord.gg/dirkscripts
+Some weed images I've made you can use them anywhere. I will be adding more to this, even making new plant props—all for free.
 
 info: weed leaf / weed seed / weed trimmed_bud / weed untrimmed_bud / weed bags / weed gummy / weed joints / weed brownies / weed_dab / weed_hash
 
