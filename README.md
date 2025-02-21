@@ -4,7 +4,8 @@
 https://discord.gg/6QUTHVA3VP
 
 Some weed images I've made you can use them anywhere. I will be adding more to this, even making new plant props—all for free.
-
+also added pre made file to add to the amazing r_scripts Trap Phone check it  out 
+link : https://www.rscripts.store/product/6693630
 
 info:
 weed leaf /
