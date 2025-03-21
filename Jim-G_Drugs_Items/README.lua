@@ -54,6 +54,18 @@ pureafghani_bud_baggy
 rainbowbelts_bud_baggy
 skunk1_bud_baggy
 
+------- bud  brick
+acapulcogold_bud_brick
+colombiangold_bud_brick
+dosidos_bud_brick
+gelato41_bud_brick
+lemonskunk_bud_brick
+northernlights_bud_brick
+ogkush_bud_brick
+pureafghani_bud_brick
+rainbowbelts_bud_brick
+skunk1_bud_brick
+
 ------- crop 
 acapulcogold_untrimmed_bud
 colombiangold_untrimmed_bud
