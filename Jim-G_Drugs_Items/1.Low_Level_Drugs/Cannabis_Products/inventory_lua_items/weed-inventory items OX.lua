@@ -199,6 +199,68 @@ return {
         close = false
     },
 
+        -- Buds in Brick
+    ['acapulcogold_bud_brick'] = {
+        label = 'Acapulco Gold Bud Baggy',
+        weight = 1,
+        stack = true,
+        close = false
+    },
+    ['colombiangold_bud_brick'] = {
+        label = 'Colombian Gold Bud Baggy',
+        weight = 1,
+        stack = true,
+        close = false
+    },
+    ['dosidos_bud_brick'] = {
+        label = 'Dosidos Bud Baggy',
+        weight = 1,
+        stack = true,
+        close = false
+    },
+    ['gelato41_bud_brick'] = {
+        label = 'Gelato 41 Bud Baggy',
+        weight = 1,
+        stack = true,
+        close = false
+    },
+    ['lemonskunk_bud_brick'] = {
+        label = 'Lemon Skunk Bud Baggy',
+        weight = 1,
+        stack = true,
+        close = false
+    },
+    ['northernlights_bud_brick'] = {
+        label = 'Northern Lights Bud Baggy',
+        weight = 1,
+        stack = true,
+        close = false
+    },
+    ['ogkush_bud_brick'] = {
+        label = 'OG Kush Bud Baggy',
+        weight = 1,
+        stack = true,
+        close = false
+    },
+    ['pureafghani_bud_brick'] = {
+        label = 'Pure Afghani Bud Baggy',
+        weight = 1,
+        stack = true,
+        close = false
+    },
+    ['rainbowbelts_bud_brick'] = {
+        label = 'Rainbow Belts Bud Baggy',
+        weight = 1,
+        stack = true,
+        close = false
+    },
+    ['skunk1_bud_brick'] = {
+        label = 'Skunk #1 Bud Baggy',
+        weight = 1,
+        stack = true,
+        close = false
+    },
+
     -- Crop
     ['acapulcogold_untrimmed_bud'] = {
         label = 'Acapulco Gold Untrimmed Bud',
